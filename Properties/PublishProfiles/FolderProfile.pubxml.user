@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\PublicacionesWeb\wcfTarjetas</_PublishTargetUrl>
+    <History>True|2021-09-01T21:21:30.5783970Z;True|2021-09-01T15:21:22.2550487-06:00;True|2021-09-01T15:08:34.5666526-06:00;True|2021-09-01T15:05:34.2342768-06:00;True|2021-09-01T15:02:59.3924278-06:00;True|2021-09-01T15:02:51.7894863-06:00;True|2021-09-01T11:37:57.4512127-06:00;True|2021-09-01T11:34:55.3787202-06:00;True|2021-09-01T11:34:45.1940137-06:00;True|2021-09-01T11:34:16.9879530-06:00;True|2021-09-01T11:33:44.7565040-06:00;True|2021-09-01T11:28:03.8440652-06:00;True|2021-09-01T11:05:49.3774488-06:00;True|2021-09-01T10:58:38.3278688-06:00;True|2021-09-01T10:40:29.5769423-06:00;True|2021-09-01T10:04:02.3748141-06:00;True|2021-09-01T08:20:40.5337469-06:00;True|2021-08-31T17:29:40.9556398-06:00;True|2021-08-31T17:18:20.1755400-06:00;True|2021-08-31T17:06:28.1860418-06:00;True|2021-08-31T16:49:41.6386645-06:00;True|2021-08-31T16:36:48.7873393-06:00;True|2021-08-31T16:21:35.8583753-06:00;True|2021-08-31T16:21:33.4860884-06:00;True|2021-08-31T16:07:44.0355188-06:00;True|2021-08-31T16:01:43.3484124-06:00;True|2021-08-31T15:56:47.3633916-06:00;True|2021-08-31T15:28:58.7400768-06:00;True|2021-08-31T15:05:19.0640573-06:00;True|2021-08-31T15:05:06.1439666-06:00;True|2021-08-31T14:23:30.7854920-06:00;True|2021-08-31T14:13:31.9572161-06:00;True|2021-08-31T10:24:51.1082191-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DBRegistrosZK.dll">
+      <publishTime>09/01/2021 15:05:26</publishTime>
+    </File>
+    <File Include="bin/DBRegistrosZK.pdb">
+      <publishTime>09/01/2021 15:05:26</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>10/06/2011 19:44:06</publishTime>
+    </File>
+    <File Include="bin/WcfTarjeta.dll">
+      <publishTime>09/01/2021 15:21:28</publishTime>
+    </File>
+    <File Include="bin/WcfTarjeta.pdb">
+      <publishTime>09/01/2021 15:21:28</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>08/26/2021 11:13:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/01/2021 15:21:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WcfTarjeta.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="InstanceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ESPark</Value>
+    </Setting>
+    <Setting Name="DataBaseName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">REGISTROSZK</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">zk</Value>
+    </Setting>
+    <Setting Name="ArchivoLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">logTarjeta.config</Value>
+    </Setting>
+    <Setting Name="PathLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ESPark\Logs\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

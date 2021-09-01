@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfUsuarioPermisos", "WcfUsuarioPermisos.csproj", "{D11C04EB-B429-4BDC-B4BD-CA031F4C396A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBRegistrosZK", "..\..\desktop\DBRegistrosZK\DBRegistrosZK.csproj", "{FBBFF435-6B74-429C-B4E0-1E57868BE9BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11C04EB-B429-4BDC-B4BD-CA031F4C396A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11C04EB-B429-4BDC-B4BD-CA031F4C396A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11C04EB-B429-4BDC-B4BD-CA031F4C396A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11C04EB-B429-4BDC-B4BD-CA031F4C396A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBFF435-6B74-429C-B4E0-1E57868BE9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBFF435-6B74-429C-B4E0-1E57868BE9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBFF435-6B74-429C-B4E0-1E57868BE9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBFF435-6B74-429C-B4E0-1E57868BE9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C00A454-B487-467D-A838-9CDA5E54B900}
+	EndGlobalSection
+EndGlobal
