@@ -9,3 +9,16 @@ ESPark.CalculoTarifas/obj/Debug/build.force
 ESPark.CalculoTarifas/obj/Release/build.force
 ESPark.CalculoTarifas/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttributes.cs
 ESPark.CalculoTarifas/obj/Release/.NETFramework,Version=v4.0.AssemblyAttributes.cs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+bld/
+[Bb]in/
+[Oo]bj/
+
