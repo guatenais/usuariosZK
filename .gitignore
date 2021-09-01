@@ -1,0 +1,11 @@
+*.pdb
+*.dll
+*.cache
+*.txt
+*.CopyComplete
+*.xml
+*.suo
+ESPark.CalculoTarifas/obj/Debug/build.force
+ESPark.CalculoTarifas/obj/Release/build.force
+ESPark.CalculoTarifas/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttributes.cs
+ESPark.CalculoTarifas/obj/Release/.NETFramework,Version=v4.0.AssemblyAttributes.cs
